@@ -29,11 +29,11 @@ Para acessar a aplicação basta clicar no nome de cada uma acima.
 
 ## Tela de Login
 
-![tela de login TinDev](https://raw.githubusercontent.com//ildasilva/tindev/master/img/tela-login.png)
+![tela de login TinDev](https://raw.githubusercontent.com/ildasilva/tindev/master/img/tela-login.png)
 
 ## Tela interna
 
-![tela interna da aplicação TinDev](https://raw.githubusercontent.com//ildasilva/tindev/master/img/tela-aplicacao.png)
+![tela interna da aplicação TinDev](https://raw.githubusercontent.com/ildasilva/tindev/master/img/tela-aplicacao.png)
 
 ### Autora:
 
