@@ -8,7 +8,7 @@ O projeto tem como objetivo final criar um clone do Tinder porém com a peculiar
 
 O projeto foi desmembrado em:
 
-+ [Fronten](https://github.com/ildasilva/tindev/tree/master/frontend)
++ [Frontend](https://github.com/ildasilva/tindev/tree/master/frontend)
 + [Backend](https://github.com/ildasilva/tindev/tree/master/backend)
 
 Para acessar a aplicação basta clicar no nome de cada uma acima.
@@ -25,6 +25,16 @@ Para acessar a aplicação basta clicar no nome de cada uma acima.
 + Mongo DB Atlas
 + Axios
 
+### Aplicação:
+
+## Tela de Login
+
+![tela de login TinDev](https://raw.githubusercontent.com//ildasilva/tindev/master/img/tela-login.png)
+
+## Tela interna
+
+![tela interna da aplicação TinDev](https://raw.githubusercontent.com//ildasilva/tindev/master/img/tela-aplicacao.png)
+
 ### Autora:
 
-+ Ilda Emanoely [![github](https://raw.githubusercontent.com/ildasilva/tindev/master/img/github.png)](https://github.com/ildasilva) [![linkedin](https://raw.githubusercontent.com/ildasilva/tindev/master/img/linkedin1.png)](https://www.linkedin.com/in/ilda-silva-neta/)
++ [Ilda Emanoely](https://www.linkedin.com/in/ilda-silva-neta/)
