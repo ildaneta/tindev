@@ -16,6 +16,7 @@ Para acessar a aplicação basta clicar no nome de cada uma acima.
 ### Tecnologias utilizadas:
 
 + Yarn
++ NPM
 + NodeJS
 + JS Es6+
 + React 
@@ -37,4 +38,4 @@ Para acessar a aplicação basta clicar no nome de cada uma acima.
 
 ### Autora:
 
-+ [Ilda Emanoely](https://www.linkedin.com/in/ilda-silva-neta/)
++ [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
