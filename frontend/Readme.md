@@ -8,7 +8,7 @@ Separamos os repositórios de Frontend e Backend, com isso, abaixo estarão os p
 mkdir Aulas # criar uma pasta chamada Aulas
 cd Aulas # entrar no diretório Aulas
 yarn install # para instalar o yarn
-sudo yarn create react-app frontend # cria um projeto do zero já com uma pasta chamada frontend dentro de Aulas
+sudo yarn create react-app frontend # cria um projeto do zero com uma pasta chamada frontend dentro de Aulas
 cd frontend # entra no diretório frontend
 yarn start # utilizado para executar o projeto
 yarn add react-router-dom # para manipulação do DOM

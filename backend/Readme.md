@@ -6,7 +6,7 @@ Separamos os repositórios de Frontend e Backend, com isso, abaixo estarão os p
 
 ```Shell
 cd Aulas # entrar no diretório Aulas
-sudo yarn create react-app backend # cria um projeto do zero já com uma pasta chamada frontend dentro de Aulas
+sudo yarn create react-app backend # cria um projeto do zero e uma pasta chamada backend dentro de Aulas
 cd backend # entra no diretório backend
 yarn dev # utilizado para executar o projeto
 
